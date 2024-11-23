@@ -124,7 +124,7 @@ body {
 }
 
 .container {
-    background-color: #ec2f2f;    
+    /* background-color: #ec2f2f; */
 }
 
 .clearfix::after {
