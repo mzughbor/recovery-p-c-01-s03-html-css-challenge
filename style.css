@@ -123,6 +123,9 @@ body {
     background-color: #885214;
 }
 
+.container {
+    background-color: #ec2f2f;    
+}
 
 .clearfix::after {
     content: '';
